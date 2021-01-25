@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-01-25T17:34:03 IST" name="Loan Department" finished-at="2021-01-25T17:34:04 IST" duration-ms="447">
+    <groups>
+    </groups>
+    <test started-at="2021-01-25T17:34:03 IST" name="Personal Loan" finished-at="2021-01-25T17:34:03 IST" duration-ms="143">
+      <class name="tests.Personal_Loan">
+        <test-method signature="TC_APILogin()[pri:0, instance:tests.Personal_Loan@313b2ea6]" started-at="2021-01-25T17:34:03 IST" name="TC_APILogin" finished-at="2021-01-25T17:34:03 IST" duration-ms="21" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_APILogin -->
+        <test-method signature="TC_MobileLogin()[pri:0, instance:tests.Personal_Loan@313b2ea6]" started-at="2021-01-25T17:34:03 IST" name="TC_MobileLogin" finished-at="2021-01-25T17:34:03 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_MobileLogin -->
+        <test-method signature="TC_PersonalLoan()[pri:0, instance:tests.Personal_Loan@313b2ea6]" started-at="2021-01-25T17:34:03 IST" name="TC_PersonalLoan" finished-at="2021-01-25T17:34:03 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_PersonalLoan -->
+        <test-method signature="TC_WebLogin()[pri:0, instance:tests.Personal_Loan@313b2ea6]" started-at="2021-01-25T17:34:03 IST" name="TC_WebLogin" finished-at="2021-01-25T17:34:03 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_WebLogin -->
+      </class> <!-- tests.Personal_Loan -->
+    </test> <!-- Personal Loan -->
+    <test started-at="2021-01-25T17:34:04 IST" name="Car Loan" finished-at="2021-01-25T17:34:04 IST" duration-ms="10">
+      <class name="tests.Car_Loan">
+        <test-method signature="TC_CarLoan()[pri:0, instance:tests.Car_Loan@157853da]" started-at="2021-01-25T17:34:04 IST" name="TC_CarLoan" finished-at="2021-01-25T17:34:04 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_CarLoan -->
+      </class> <!-- tests.Car_Loan -->
+    </test> <!-- Car Loan -->
+    <test started-at="2021-01-25T17:34:04 IST" name="Home Loan" finished-at="2021-01-25T17:34:04 IST" duration-ms="14">
+      <class name="tests.Home_Loan">
+        <test-method signature="TC_HomeLoan()[pri:0, instance:tests.Home_Loan@87a85e1]" started-at="2021-01-25T17:34:04 IST" name="TC_HomeLoan" finished-at="2021-01-25T17:34:04 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_HomeLoan -->
+      </class> <!-- tests.Home_Loan -->
+    </test> <!-- Home Loan -->
+  </suite> <!-- Loan Department -->
+</testng-results>
